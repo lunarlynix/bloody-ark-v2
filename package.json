@@ -22,7 +22,7 @@
     "autoprefixer": "^10.4.13",
     "date-fns-tz": "^2.0.0",
     "eslint": "8.31.0",
-    "eslint-config-next": "13.1.2",
+    "eslint-config-next": "13.1.4",
     "iron-session": "^6.3.1",
     "knex": "^2.4.2",
     "moment": "^2.29.4",
